@@ -8,12 +8,6 @@ header {
    
 }
 
-h1 {
-    font-family: "Press Start 2P", sans-serif;
-    color: #FFF;
-    text-shadow: 5px 5px 0 #000;
-}
-
 nav {
     text-align: right;
 }
@@ -50,4 +44,6 @@ a:before {
 #button:hover {
     transform: scale(1.08);
 }
+
+
 
